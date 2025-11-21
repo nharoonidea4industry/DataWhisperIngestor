@@ -1,0 +1,202 @@
+{
+  "columns": [
+    {
+      "SourceHeader": "cust_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_id"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "entity_cust_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_cust_id"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "cust_nm",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_nm"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "entity_loctn_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_loctn_id"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "loctn_grp_2",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "loctn_grp_2"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "cust_grp_1",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_grp_1"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "invoice_dt",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_dt"
+      },
+      "Confidence": 0.85,
+      "Transform": "parse_date"
+    },
+    {
+      "SourceHeader": "invoice_nbr",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_nbr"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "entity_product_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_product_id"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "product_nm",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "product_nm",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "product_grp_1",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_1"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "product_grp_2",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_2"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "loctn_grp_1",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "loctn_grp_1"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "bill_qty",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "bill_qty"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_int"
+    },
+    {
+      "SourceHeader": "unit_sls_prc",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "unit_sls_prc"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "unit_cost",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "unit_cost"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "sales_amt",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "sales_amt"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "cost_amt",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cost_amt"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "Prc_Md",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "Prc_Md"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Delivery",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "Delivery"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "doc_type_code",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "doc_type_code"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    }
+  ]
+}

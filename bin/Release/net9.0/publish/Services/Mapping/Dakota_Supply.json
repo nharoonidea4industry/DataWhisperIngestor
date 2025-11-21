@@ -1,0 +1,124 @@
+{
+  "columns": [
+    {
+      "SourceHeader": "BillToID",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_cust_id"
+      },
+      "Confidence": 1.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "BillToName",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_nm"
+      },
+      "Confidence": 1.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "buy_line_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Confidence": 0.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CostAmount",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cost_amt"
+      },
+      "Confidence": 1.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CustomerListing",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_grp_1"
+      },
+      "Confidence": 0.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "description",
+      "Target": null,
+      "Confidence": 0.5,
+      "Transform": "may refer to product name but is generic"
+    },
+    {
+      "SourceHeader": "DSG_ProductID",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_product_id"
+      },
+      "Confidence": 1.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "InvoiceNumber",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_nbr"
+      },
+      "Confidence": 1.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "OrderCount",
+      "Target": null,
+      "Confidence": 0.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ProductSelectCode",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_1"
+      },
+      "Confidence": 0.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "SalesAmount",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "sales_amt"
+      },
+      "Confidence": 1.0,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ShipDate",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_dt"
+      },
+      "Confidence": 0.5,
+      "Transform": "rename to invoice_dt, likely represents invoice date"
+    },
+    {
+      "SourceHeader": "TotalUnits",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "bill_qty"
+      },
+      "Confidence": 0.5,
+      "Transform": "likely corresponds to billed quantity"
+    },
+    {
+      "SourceHeader": "UPC",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_2"
+      },
+      "Confidence": 0.0,
+      "Transform": ""
+    }
+  ]
+}

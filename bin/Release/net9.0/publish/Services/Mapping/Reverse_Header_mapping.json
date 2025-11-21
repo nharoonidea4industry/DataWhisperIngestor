@@ -1,0 +1,258 @@
+{
+  "source": {
+    "delimiter": "|",
+    "hasHeader": false,
+    "indexing": "zero-based"
+  },
+  "target": {
+    "table": "stgMain"
+  },
+  "columns": [
+    {
+      "SourceIndex": 0,
+      "SourceHeaderGuess": "sold_to_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_id"
+      },
+      "Transform": "to_string",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 1,
+      "SourceHeaderGuess": "sold_to_name",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_nm"
+      },
+      "Transform": "trim",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 2,
+      "SourceHeaderGuess": "bill_to_id",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_cust_id"
+      },
+      "Transform": "to_string",
+      "Confidence": 0.7
+    },
+    {
+      "SourceIndex": 3,
+      "SourceHeaderGuess": "rep_code",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_grp_2"
+      },
+      "Transform": "trim",
+      "Confidence": 0.5
+    },
+    {
+      "SourceIndex": 4,
+      "SourceHeaderGuess": "customer_type",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_grp_1"
+      },
+      "Transform": "trim",
+      "Confidence": 0.8
+    },
+    {
+      "SourceIndex": 5,
+      "SourceHeaderGuess": "transaction_date",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_dt"
+      },
+      "Transform": "parse_date('%m/%d/%Y')",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 6,
+      "SourceHeaderGuess": "document_line",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_nbr"
+      },
+      "Transform": "trim",
+      "Confidence": 0.9
+    },
+    {
+      "SourceIndex": 7,
+      "SourceHeaderGuess": "product_id_or_gl",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_product_id"
+      },
+      "Transform": "to_string",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 8,
+      "SourceHeaderGuess": "sku_or_status",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Transform": "trim",
+      "Confidence": 0.6
+    },
+    {
+      "SourceIndex": 9,
+      "SourceHeaderGuess": "line_description",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Transform": "prefer_nonempty(existing, current)",
+      "Confidence": 0.9
+    },
+    {
+      "SourceIndex": 10,
+      "SourceHeaderGuess": "category_lvl1",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_1"
+      },
+      "Transform": "trim",
+      "Confidence": 0.85
+    },
+    {
+      "SourceIndex": 11,
+      "SourceHeaderGuess": "category_lvl2",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_2"
+      },
+      "Transform": "trim",
+      "Confidence": 0.85
+    },
+    {
+      "SourceIndex": 12,
+      "SourceHeaderGuess": "brand_or_dept",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "loctn_grp_1"
+      },
+      "Transform": "trim",
+      "Confidence": 0.7
+    },
+    {
+      "SourceIndex": 13,
+      "SourceHeaderGuess": "quantity",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "bill_qty"
+      },
+      "Transform": "to_int",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 14,
+      "SourceHeaderGuess": "unit_price",
+      "Target": {
+        "Table": "stgMain",
+        //"Column": "unit_sls_prc"
+        "Column": "sales_amt"
+      },
+      "Transform": "to_float",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 15,
+      "SourceHeaderGuess": "unit_cost",
+      "Target": {
+        "Table": "stgMain",
+        //"Column": "unit_cost"
+        "Column": "cost_amt"
+      },
+      "Transform": "to_float",
+      "Confidence": 0.95
+    },
+    {
+      "SourceIndex": 16,
+      "SourceHeaderGuess": "price_basis",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "Prc_Md"
+      },
+      "Transform": "trim",
+      "Confidence": 0.8
+    },
+    {
+      "SourceIndex": 17,
+      "SourceHeaderGuess": "override_reason",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "Delivery"
+      },
+      "Transform": "trim",
+      "Confidence": 0.5
+    },
+    {
+      "SourceIndex": 18,
+      "SourceHeaderGuess": "doc_type_code",
+      "Target": null,
+      "Transform": "Delivery",
+      "Confidence": 0.2
+    }
+  ],
+  "derived": [
+    {
+      "Expression": "cost_amt = bill_qty * unit_cost",
+      "Confidence": 0.95
+    },
+    {
+      "Expression": "sales_amt = bill_qty * unit_sls_prc",
+      "Confidence": 0.95
+    }
+  ],
+  "defaults": [
+    {
+      "Column": "entity_id",
+      "Value": null
+    },
+    {
+      "Column": "loctn_id",
+      "Value": null
+    },
+    {
+      "Column": "cust_id",
+      "Value": null
+    },
+    {
+      "Column": "product_id",
+      "Value": null
+    },
+    {
+      "Column": "cust_grp_2",
+      "Value": null
+    },
+    {
+      "Column": "loctn_nm",
+      "Value": null
+    },
+    {
+      "Column": "crt_dt",
+      "Value": "NOW()"
+    },
+    {
+      "Column": "upd_dt",
+      "Value": "NOW()"
+    },
+    {
+      "Column": "ExcelRowNumber",
+      "Value": null
+    },
+    {
+      "Column": "ImportedAt",
+      "Value": "NOW()"
+    }
+  ],
+  "notes": [
+    "Prefer non-empty line_description over sku_or_status for product_nm.",
+    "Rows with doc_type_code == 'S' are A/R receipts; allow NULL product fields.",
+    "Trim trailing empty field when line ends with '|'."
+  ]
+}

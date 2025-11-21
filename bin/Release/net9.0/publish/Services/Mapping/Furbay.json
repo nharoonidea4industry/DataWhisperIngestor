@@ -1,0 +1,154 @@
+{
+  "columns": [
+    {
+      "SourceHeader": "Customer No",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_cust_id"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "Customer Name",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_nm"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Division No",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Item",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Product Group",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_1"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Item Count",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Invoice No",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_nbr"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Invoice Date",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_dt"
+      },
+      "Confidence": 0.85,
+      "Transform": "parse_date"
+    },
+    {
+      "SourceHeader": "Sales",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "sales_amt"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "Qty Ord",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "bill_qty"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_int"
+    },
+    {
+      "SourceHeader": "Uom",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Ship Via Name",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Price Level",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Price Level Desc",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Unit Price",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "unit_sls_prc"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "Unit Cost",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "unit_cost"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "Vendor Name",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Whse Name (Ord)",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "Whse Name (Ship)",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "SSMA_TimeStamp",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|c:\\users\\naveelharoon\\onedrive - idea\\naveel drive\\projects\\aws git\\datawhisperingestor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|c:\\users\\naveelharoon\\onedrive - idea\\naveel drive\\projects\\aws git\\datawhisperingestor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|c:\\users\\naveelharoon\\onedrive - idea\\naveel drive\\projects\\aws git\\datawhisperingestor\\services\\processing\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|solutionrelative:services\\processing\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|c:\\users\\naveelharoon\\onedrive - idea\\naveel drive\\projects\\aws git\\datawhisperingestor\\services\\processing\\transformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|solutionrelative:services\\processing\\transformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|c:\\users\\naveelharoon\\onedrive - idea\\naveel drive\\projects\\aws git\\datawhisperingestor\\services\\excel\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|solutionrelative:services\\excel\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|c:\\users\\naveelharoon\\onedrive - idea\\naveel drive\\projects\\aws git\\datawhisperingestor\\ingestworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704B82CE-6C45-02A4-C3B0-447F0FFB4797}|DataWhisperIngest.csproj|solutionrelative:ingestworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T18:03:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:03:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransformService.cs",
+              "DocumentMoniker": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Services\\Processing\\TransformService.cs",
+              "RelativeDocumentMoniker": "Services\\Processing\\TransformService.cs",
+              "ToolTip": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Services\\Processing\\TransformService.cs",
+              "RelativeToolTip": "Services\\Processing\\TransformService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:00:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelReader.cs",
+              "DocumentMoniker": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Services\\Excel\\ExcelReader.cs",
+              "RelativeDocumentMoniker": "Services\\Excel\\ExcelReader.cs",
+              "ToolTip": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Services\\Excel\\ExcelReader.cs",
+              "RelativeToolTip": "Services\\Excel\\ExcelReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:57:40.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngestWorker.cs",
+              "DocumentMoniker": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\IngestWorker.cs",
+              "RelativeDocumentMoniker": "IngestWorker.cs",
+              "ToolTip": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\IngestWorker.cs",
+              "RelativeToolTip": "IngestWorker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:54:32.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Services\\Processing\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\Processing\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\NaveelHaroon\\OneDrive - IDEA\\Naveel Drive\\Projects\\AWS GIT\\DataWhisperIngestor\\Services\\Processing\\FileProcessor.cs*",
+              "RelativeToolTip": "Services\\Processing\\FileProcessor.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAAArwJYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:54:26.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

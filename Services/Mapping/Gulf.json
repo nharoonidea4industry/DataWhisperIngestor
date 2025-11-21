@@ -1,0 +1,574 @@
+﻿{
+  "columns": [
+    {
+      "SourceHeader": "BANNER_ID",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_id"
+      },
+      "Confidence": 0.6,
+      "Transform": "to_int"
+    },
+    {
+      "SourceHeader": "BANNER_CODE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "GL_BRANCH_SK",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "loctn_id"
+      },
+      "Confidence": 0.75,
+      "Transform": "to_int"
+    },
+    {
+      "SourceHeader": "ITEM_MASTER_SK",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_id"
+      },
+      "Confidence": 0.65,
+      "Transform": "to_int"
+    },
+    {
+      "SourceHeader": "ORDER_DATE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "INVOICE_DATE",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_dt"
+      },
+      "Confidence": 0.95,
+      "Transform": "parse_date"
+    },
+    {
+      "SourceHeader": "CALENDAR_MONTH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CALENDAR_YEAR",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "BILL_TO_CUSTOMER",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_cust_id"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "SHIP_TO_CUSTOMER",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_loctn_id"
+      },
+      "Confidence": 0.8,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "DUNS_LOC_NUM",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "DUNS_CONF_IND",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ORDER_NUMBER",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "INVOICE_NUMBER",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "invoice_nbr"
+      },
+      "Confidence": 0.95,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "LINE_NUMBER",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "GEN_ID",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ORDER_QUANTITY",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "bill_qty"
+      },
+      "Confidence": 0.9,
+      "Transform": "to_int"
+    },
+    {
+      "SourceHeader": "EXTENDED_SALES_AMOUNT",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "sales_amt"
+      },
+      "Confidence": 0.9,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "EXTENDED_MARGIN_AMOUNT",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "EXTENDED_MISC_AMOUNT",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "UNIT_COGS_AMOUNT",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "unit_cost"
+      },
+      "Confidence": 0.85,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "COGS_AMOUNT",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cost_amt"
+      },
+      "Confidence": 0.9,
+      "Transform": "to_float"
+    },
+    {
+      "SourceHeader": "SALES_TAX",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ORDER_STATUS",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CITY",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "STATE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ZIP",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "COUNTY_FIPS",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "COUNTY_NAME",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "METRO_AREA",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CUSTOMER_NAME",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "cust_nm"
+      },
+      "Confidence": 0.9,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_CODE_2",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_2_DESC",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_CODE_3",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_3_DESC",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_CODE_4",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_4_DESC",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_CODE_5",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_5_DESC",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_CODE_6",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAICS_6_DESC",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "INSIDE_SALESREP_SSO",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "INSIDE_SALESREP",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "OUTSIDE_SALESREP_SSO",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "OUTSIDE_SALESREP",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CREDIT_MANAGER_SSO",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CREDIT_MANAGER",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CREDIT_LIMIT",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "DUNS_LOC_NUM_CREDIT",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "SEGMENT",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "INDUSTRY",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "OUTSIDE_SALESREP_SSO_REG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "OUTSIDE_SALESREP_REG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "OUTSIDE_SALES_REP_NAME_REG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "MANAGER_ID_REG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "MANAGER_NAME_REG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "SHIP_VIA_MASTER_SK",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "SHIP_VIA_DESCRIPTION",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "Delivery"
+      },
+      "Confidence": 0.7,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "BRANCH_NUMBER",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "BRANCH_DESCRIPTION",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "loctn_nm"
+      },
+      "Confidence": 0.85,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "BRANCH_TYPE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "LOCATION_TYPE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "BRANCH_STATUS",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "DISTRIBUTION_CENTER_FLAG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "DISTRIBUTION_CENTER_BRANCH_ID",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ADDRESS_LINE1_BRANCH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ADDRESS_LINE2_BRANCH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CITY_BRANCH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "STATE_BRANCH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ZIP_BRANCH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "REGION_BRANCH",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ERP_ITEM_ID",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "entity_product_id"
+      },
+      "Confidence": 0.95,
+      "Transform": "to_string"
+    },
+    {
+      "SourceHeader": "ITEM_DESC_SHORT",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_nm"
+      },
+      "Confidence": 0.9,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAP_CATEGORY_DESC",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_1"
+      },
+      "Confidence": 0.8,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "NAP_SECTION_DESC",
+      "Target": {
+        "Table": "stgMain",
+        "Column": "product_grp_2"
+      },
+      "Confidence": 0.8,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "UNSPSC_FAMILY_CODE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "UNSPSC_FAMILY_DESC",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "EMPLOYEE_TIER",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CUSTOMER_MARKET",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CUSTOMER_TYPE",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "CUSTOMER_SEGMENT",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "DISTRIBUTION_METHOD",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "LINE_SK",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "EMPLOYEE_TIER_II",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "INVOICED_FLAG",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    },
+    {
+      "SourceHeader": "ORGANIZATIONAL_URLS",
+      "Target": null,
+      "Confidence": 0.2,
+      "Transform": ""
+    }
+  ]
+}

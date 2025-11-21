@@ -1,0 +1,422 @@
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\appsettings.Development.json
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\appsettings.json
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DataWhisperIngest.exe
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DataWhisperIngest.deps.json
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DataWhisperIngest.runtimeconfig.json
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DataWhisperIngest.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DataWhisperIngest.pdb
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Azure.Core.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Azure.Identity.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\ClosedXML.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Dapper.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Hosting.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\OpenAI.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\RBush.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.ClientModel.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.csproj.AssemblyReference.cache
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfoInputs.cache
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfo.cs
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.csproj.CoreCompileInputs.cache
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhis.2508C95C.Up2Date
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.dll
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\refint\DataWhisperIngest.dll
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.pdb
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\DataWhisperIngest.genruntimeconfig.cache
+C:\Naveel\Projects\DataWhisperIngest\obj\Debug\net9.0\ref\DataWhisperIngest.dll
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Services\Mapping\Furbay.json
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Services\Mapping\PSW.json
+C:\Naveel\Projects\DataWhisperIngest\bin\Debug\net9.0\Services\Mapping\Standard_Electric.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.csproj.AssemblyReference.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfoInputs.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfo.cs
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.csproj.CoreCompileInputs.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\refint\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.pdb
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\appsettings.Development.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\appsettings.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Furbay.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\PSW.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Standard_Electric.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.exe
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.deps.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.runtimeconfig.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.pdb
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Azure.Core.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Azure.Identity.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\ClosedXML.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Dapper.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Hosting.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\OpenAI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\RBush.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.ClientModel.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhis.2508C95C.Up2Date
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.genruntimeconfig.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\obj\Debug\net9.0\ref\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Reverse_Header_mapping.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Reverse_Electric.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Gulf.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\appsettings.Development.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\appsettings.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Furbay.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Gulf.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\PSW.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Reverse_Electric.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Reverse_Header_mapping.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Standard_Electric.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.exe
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.deps.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.runtimeconfig.json
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.pdb
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Azure.Core.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Azure.Identity.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\ClosedXML.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Dapper.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Hosting.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\OpenAI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\RBush.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.ClientModel.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.csproj.AssemblyReference.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfoInputs.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfo.cs
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.csproj.CoreCompileInputs.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhis.2508C95C.Up2Date
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\refint\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.pdb
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.genruntimeconfig.cache
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\DataWhisperIngestor\obj\Debug\net9.0\ref\DataWhisperIngest.dll
+C:\Naveel\Projects\GitProjects\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Dakota_Supply.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Dakota_Supply.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Furbay.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Gulf.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\PSW.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Reverse_Electric.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Reverse_Header_mapping.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Services\Mapping\Standard_Electric.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\appsettings.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.exe
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.deps.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.runtimeconfig.json
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DataWhisperIngest.pdb
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Dapper.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Hosting.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\OpenAI.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\RBush.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.csproj.AssemblyReference.cache
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfoInputs.cache
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.AssemblyInfo.cs
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.csproj.CoreCompileInputs.cache
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhis.2508C95C.Up2Date
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\refint\DataWhisperIngest.dll
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.pdb
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\DataWhisperIngest.genruntimeconfig.cache
+C:\Users\NaveelHaroon\OneDrive - IDEA\Naveel Drive\Projects\AWS GIT\DataWhisperIngestor\obj\Debug\net9.0\ref\DataWhisperIngest.dll
