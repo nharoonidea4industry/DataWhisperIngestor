@@ -43,9 +43,6 @@ public sealed class FileProcessor : IFileProcessor
     {
         int ingestFileId = 0;
         List<string> apis = new List<string>();
-        apis.Add("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");
-        apis.Add("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");
-        apis.Add("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");
         //var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
         Random r = new Random();
         int index = r.Next(apis.Count);
